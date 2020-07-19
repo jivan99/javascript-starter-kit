@@ -5,7 +5,9 @@
   "scripts": {
     "prestart": "node buildScripts/startMessage.js",
     "start": "node buildScripts/srcServer.js",
-    "share": "lt -h 'http://serverless.social' -p 3000"
+    "open:src": "node buildScripts/srcServer.js",
+    "localtunnel": "lt -h 'http://serverless.social' -p 3000",
+    "share": "npm-run-all --parallel open:src localtunnel"
   },
   "repository": {
     "type": "git",
