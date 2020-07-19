@@ -2,7 +2,9 @@
   "name": "javascript-starter-kit",
   "version": "1.0.0",
   "description": "A starter kit for my personal javascript projects",
-  "scripts": {},
+  "scripts": {
+    "start": "node buildScripts/srcServer.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jivan99/javascript-starter-kit.git"
