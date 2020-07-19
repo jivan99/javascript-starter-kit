@@ -1,0 +1,16 @@
+{
+  "name": "javascript-starter-kit",
+  "version": "1.0.0",
+  "description": "A starter kit for my personal javascript projects",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jivan99/javascript-starter-kit.git"
+  },
+  "author": "Jivan Katwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jivan99/javascript-starter-kit/issues"
+  },
+  "homepage": "https://github.com/jivan99/javascript-starter-kit#readme"
+}
