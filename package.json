@@ -12,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/jivan99/javascript-starter-kit/issues"
   },
-  "homepage": "https://github.com/jivan99/javascript-starter-kit#readme"
+  "homepage": "https://github.com/jivan99/javascript-starter-kit#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "open": "^7.0.4"
+  }
 }
